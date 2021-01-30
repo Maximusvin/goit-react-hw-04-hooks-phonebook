@@ -2,7 +2,7 @@
   "name": "template-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maximusvin.github.io/goit-react-hw-04-hooks-feedback",
+  "homepage": "https://maximusvin.github.io/goit-react-hw-04-hooks-phonebook",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.2",
     "@testing-library/jest-dom": "^5.11.9",
